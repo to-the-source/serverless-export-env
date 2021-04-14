@@ -41,7 +41,7 @@ class ExportEnv {
     };
 
     this.environmentVariables = {};
-    this.envFileName = ".env";
+    this.envFileName = ".env.test";
   }
 
   initOfflineHook() {
